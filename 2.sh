@@ -1,0 +1,1 @@
+sudo pacman-key --finger 56C464BAAC421453

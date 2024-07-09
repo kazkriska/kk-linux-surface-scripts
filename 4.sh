@@ -1,0 +1,1 @@
+sudo pacman -S linux-surface linux-surface-headers iptsd
